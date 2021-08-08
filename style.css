@@ -556,7 +556,7 @@ footer span a:hover{
 	.services .about-services .text{
 		text-align: center;
 		margin-right: 20%;
-		margin: calc( 50% - 25px)
+		margin: calc( 50% - 20px)
 	}
 	.services .max-width{
 		flex: 100%;
