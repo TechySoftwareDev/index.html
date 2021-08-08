@@ -589,7 +589,7 @@ footer span a:hover{
 		position: inline-block;
 	}
 	.contact .contact-content .column{
-	width: calc(50% - 30px)
+	width: calc(50% - 10px)
 	max-width: 100%;
 	}
 }
