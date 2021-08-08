@@ -532,20 +532,30 @@ footer span a:hover{
 	.home .home-content a{
 		font-size: 18px;
 		padding: 10px 30px;
+		display: none;
+		z-index: 999;
 	}
 	.max-width {
-		max-width: 930px;	
+		max-width: 930px;
+		display: none;
+		z-index: 999;
 	}
 	.about .about-content .column{
 		width: 100%;
+		display: none;
+		z-index: 999;
 	}
 	.about .about-content .left{
 		display: flex;
 		justify-content: center;
 		margin: 0 auto 60px;
+		display: none;
+		z-index: 999;
 	}
 	.about .about-content .right{
 		flex: 100%;
+		display: none;
+		z-index: 999;
 	}
 	.services .about-services .card{
 		width: calc(50% - 10px);
