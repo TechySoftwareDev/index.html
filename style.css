@@ -581,6 +581,19 @@ footer span a:hover{
 	}
 }
 @media (max-width: 500px){
+	.max-width{
+		padding: 0 23px;
+	}
+	.services .about-services .card{
+		flex: 100%;
+		position: inline-block;
+	}
+	.contact .contact-content .column{
+	width: calc(50% - 30px)
+	max-width: 100%;
+	}
+}
+@media (max-width: 500px){
 	.contact .right form .fields{
 		flex-direction: column;
 	}
